@@ -1,0 +1,13 @@
+form {
+  background-color: rgba(255, 33, 218, 0.205);
+  padding: 20px;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.credentials {
+  display: flex;
+  justify-content: space-around;
+  border: none;
+  outline: none;
+}
